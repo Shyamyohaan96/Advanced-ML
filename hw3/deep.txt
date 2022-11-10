@@ -1,0 +1,16 @@
+--conv_size
+3
+3
+--conv_nfilters
+16
+16
+--pool
+2
+2
+--hidden
+35
+30
+25
+20
+--dropout=0.5
+--l2=0.0001

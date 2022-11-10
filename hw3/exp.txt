@@ -1,0 +1,6 @@
+--cpus_per_task=10
+--batch=32
+--epochs=2000
+--steps_per_epoch=100
+--patience=20
+--validation_fraction=0.2
